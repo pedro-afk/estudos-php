@@ -2,7 +2,7 @@
   <b>🐘 Caderno de anotações 🐘</b>
 </h1>
 <p align="center">
-  Olá pessoa! Seja muito bem-vinda ao meu repositório de estudos. Ele irá mostrar toda a minha evolução nessa linguagem maravilhosa!
+  Olá, pessoa! Seja muito bem-vinda ao meu repositório de estudos. Ele irá mostrar toda a minha evolução nesta linguagem maravilhosa!
 </p>
 
 
