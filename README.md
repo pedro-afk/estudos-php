@@ -40,7 +40,7 @@ Eu ainda estou aprendendo, então não sou a melhor pessoa para te dizer se vale
 
 Se livre logo da maldição do `Hello World!`! Se você acredita nela ou não, é sempre bom escrever seu primeiro script. Não pense que você vai sair programando uma rede social gigante sem saber o básico do básico, só se você for um **ULTRA MEGA BLASTER GÊNIO**, ai nem precisa vir aqui olhar meus meros scripts...
 
-Dê uma conferida na pasta `php-coding`, lá tem toda a minha jornada (que por enquanto está só começando). O arquivo [00-hello-world.php](https://github.com/Tur1st4/estudos-php/blob/master/php-condig/00-hello-world.php) está prontinho para você conferir e aprender como criar o seu.
+Dê uma conferida na pasta `php-coding`, lá tem toda a minha jornada (que por enquanto está só começando). O arquivo [00-hello-world.php](https://github.com/Tur1st4/estudos-php/blob/master/php-coding/00-hello-world.php) está prontinho para você conferir e aprender como criar o seu.
 
 ## Onde estou aprendendo PHP?
 
