@@ -34,7 +34,7 @@ Eu ainda estou aprendendo, então não sou a melhor pessoa para te dizer se vale
 <br>
 <br>
 <img src="https://yt3.ggpht.com/a/AATXAJw0gI0m5i0jAZ-5wLTN3EZaIAkExKf9AC9XZ2IjPg=s88-c-k-c0xffffffff-no-rj-mo" alt="Código Fonte TV" align="left" width="28px" height="auto"/>
-[PHP Ainda Vale a Pena Em 2020? // Vlog #106 - Código Fonte TV](https://www.youtube.com/watch?v=H43fXodv6WY)
+[PHP Ainda Vale a Pena Em 2020? // Vlog #106 - Código Fonte TV](https://www.youtube.com/watch?v=Wp97fsuwnWw)
 
 ## Hello World
 
