@@ -13,6 +13,7 @@
 + **[Começando do começo](#começando-do-começo)**
 + **[Hello World](#hello-world)**
 + **[Em construção](#em-construção)**
++ **[Onde estou aprendendo PHP?](#onde-estou-aprendendo-php)**
 
 <br>
 <br>
@@ -33,13 +34,22 @@ Eu ainda estou aprendendo, então não sou a melhor pessoa para te dizer se vale
 <br>
 <br>
 <img src="https://yt3.ggpht.com/a/AATXAJw0gI0m5i0jAZ-5wLTN3EZaIAkExKf9AC9XZ2IjPg=s88-c-k-c0xffffffff-no-rj-mo" alt="Código Fonte TV" align="left" width="28px" height="auto"/>
-[PHP Ainda Vale a Pena Em 2020? // Vlog #106 - Código Fonte TV](https://www.youtube.com/watch?v=H43fXodv6WY)
+[PHP Ainda Vale a Pena Em 2020? // Vlog #106 - Código Fonte TV](https://www.youtube.com/watch?v=Wp97fsuwnWw)
 
 ## Hello World
 
 Se livre logo da maldição do `Hello World!`! Se você acredita nela ou não, é sempre bom escrever seu primeiro script. Não pense que você vai sair programando uma rede social gigante sem saber o básico do básico, só se você for um **ULTRA MEGA BLASTER GÊNIO**, ai nem precisa vir aqui olhar meus meros scripts...
 
-Dê uma conferida na pasta `php-coding`, lá tem toda a minha jornada (que por enquanto está só começando). O arquivo [00-hello-world.php](https://github.com/Tur1st4/estudos-php/blob/master/php-condig/00-hello-world.php) está prontinho para você conferir e aprender como criar o seu.
+Dê uma conferida na pasta `php-coding`, lá tem toda a minha jornada (que por enquanto está só começando). O arquivo [00-hello-world.php](https://github.com/Tur1st4/estudos-php/blob/master/php-coding/00-hello-world.php) está prontinho para você conferir e aprender como criar o seu.
+
+## Onde estou aprendendo PHP?
+
+<img src="https://terminalroot.com.br/assets/img/logo.png" alt="Terminal Root" align="left" width="110px" height="auto"/>
+
+Estou estudando pelo curso do grande [Marcos Oliveira](https://github.com/terroo), onde você vai do básico ao avançado em desenvolvimento web.
+Caso queira dar uma olhada e talvez adquirir, [clique aqui](https://www.udemy.com/course/curso-de-desenvolvimento-web-do-zero-php-mysql-no-linux/).
+
+Aprendi muito com o mestre e dono do site [Terminal Root](https://terminalroot.com.br/), como por exemplo, Shell Script, Sed, Vim e VimScrpt. Recomendo muito! 🤩
 
 ## Em construção
 
