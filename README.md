@@ -12,8 +12,8 @@
 
 + **[Começando do começo](#começando-do-começo)**
 + **[Hello World](#hello-world)**
-+ **[Em construção](#em-construção)**
 + **[Onde estou aprendendo PHP?](#onde-estou-aprendendo-php)**
++ **[Em construção](#em-construção)**
 
 <br>
 <br>
@@ -49,7 +49,7 @@ Dê uma conferida na pasta `php-coding`, lá tem toda a minha jornada (que por e
 Estou estudando pelo curso do grande [Marcos Oliveira](https://github.com/terroo), onde você vai do básico ao avançado em desenvolvimento web.
 Caso queira dar uma olhada e talvez adquirir, [clique aqui](https://www.udemy.com/course/curso-de-desenvolvimento-web-do-zero-php-mysql-no-linux/).
 
-Aprendi muito com o mestre e dono do site [Terminal Root](https://terminalroot.com.br/), como por exemplo, Shell Script, Sed, Vim e VimScrpt. Recomendo muito! 🤩
+Aprendi muito com o mestre e dono do site [Terminal Root](https://terminalroot.com.br/), como por exemplo, Shell Script, Sed, Vim e VimScript. Recomendo muito! 🤩
 
 ## Em construção
 
